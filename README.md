@@ -1,7 +1,7 @@
 <p
 
   <sub> [atabook](https://partypooperbaby.atabook.org/)  
-<sub> [strawpage](https://partypooperbaby.strawpage.com/)
+<sub> [strawpage](https://partypooperbaby.straw.page/)
 
 </p
 
