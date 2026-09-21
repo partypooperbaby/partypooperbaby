@@ -1,7 +1,6 @@
 <p align="center"
 
-<sub> [atabook](https://partypooperbaby.atabook.org/)
-
+  <sub> [atabook](https://partypooperbaby.atabook.org/)
 <sub> [strawpage](https://partypooperbaby.strawpage.com/)
 
 </p
